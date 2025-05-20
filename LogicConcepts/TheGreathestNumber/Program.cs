@@ -46,6 +46,7 @@ class Program
             {
                 Console.WriteLine($"El mayor es {a}, el medio es {c} y el menor es {b}");
             }
+
         }
     }
      
